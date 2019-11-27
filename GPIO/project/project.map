@@ -1,0 +1,1387 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000       0x74 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\user\src\main.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\user\src\main.o
+ .text          0x00000000      0x18c D:\ARM\projects\GPIO\libraries\src\misc.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\misc.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\misc.o
+ .debug_info    0x00000000      0x52a D:\ARM\projects\GPIO\libraries\src\misc.o
+ .debug_abbrev  0x00000000      0x1a7 D:\ARM\projects\GPIO\libraries\src\misc.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\misc.o
+ .debug_line    0x00000000      0x26b D:\ARM\projects\GPIO\libraries\src\misc.o
+ .debug_str     0x00000000      0x3ce D:\ARM\projects\GPIO\libraries\src\misc.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\misc.o
+ .debug_frame   0x00000000       0xd8 D:\ARM\projects\GPIO\libraries\src\misc.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\misc.o
+ .text          0x00000000      0xa00 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .debug_info    0x00000000      0xc18 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x1d5 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .debug_line    0x00000000      0x606 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .debug_str     0x00000000      0x711 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .debug_frame   0x00000000      0x5a4 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ .text          0x00000000      0x1c0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .debug_info    0x00000000      0x81b D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x19a D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .debug_line    0x00000000      0x233 D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .debug_str     0x00000000      0x5cb D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .debug_frame   0x00000000      0x1c4 D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+ .text          0x00000000     0x1188 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .debug_info    0x00000000      0xc48 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x238 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .debug_line    0x00000000      0x8b6 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .debug_str     0x00000000      0x744 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .debug_frame   0x00000000      0x3f8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+ .text          0x00000000      0x28c D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .debug_info    0x00000000      0x453 D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .debug_abbrev  0x00000000      0x1ef D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .debug_line    0x00000000      0x2fe D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .debug_str     0x00000000      0x38c D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .debug_frame   0x00000000      0x224 D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+ .text          0x00000000       0xc8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .debug_info    0x00000000      0x214 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x141 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .debug_line    0x00000000      0x1f6 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .debug_str     0x00000000      0x251 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .debug_frame   0x00000000       0xe8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+ .text          0x00000000      0x300 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .debug_info    0x00000000      0x4ee D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x1b0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .debug_line    0x00000000      0x323 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .debug_str     0x00000000      0x3c5 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .debug_frame   0x00000000      0x1e4 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+ .text          0x00000000       0x6c D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x164 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000      0x10b D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x1ba D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x208 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x78 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+ .text          0x00000000      0x3f8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .debug_info    0x00000000      0x4ad D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x1a8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .debug_line    0x00000000      0x3af D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .debug_str     0x00000000      0x3cd D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .debug_frame   0x00000000      0x1c8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+ .text          0x00000000      0x218 D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .debug_info    0x00000000      0x375 D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x18e D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .debug_line    0x00000000      0x2e7 D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .debug_str     0x00000000      0x35f D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .debug_frame   0x00000000      0x148 D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+ .text          0x00000000      0x954 D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .debug_info    0x00000000      0x81a D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .debug_abbrev  0x00000000      0x1ca D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .debug_line    0x00000000      0x5ba D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .debug_str     0x00000000      0x5fe D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .debug_frame   0x00000000      0x410 D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+ .text          0x00000000      0x950 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x97f D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x1c3 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x7d7 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x790 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x300 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .text          0x00000000      0x92c D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .debug_info    0x00000000      0xba4 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x1b9 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .debug_line    0x00000000      0x527 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .debug_str     0x00000000      0x67c D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x530 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+ .text          0x00000000       0xc4 D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x218 D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000      0x14a D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x1dd D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x272 D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0xf0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+ .text          0x00000000      0x1c4 D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .debug_info    0x00000000      0x46f D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x1ea D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .debug_line    0x00000000      0x244 D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .debug_str     0x00000000      0x328 D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .debug_frame   0x00000000      0x19c D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+ .text          0x00000000      0x2bc D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .debug_info    0x00000000      0x46a D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x1c8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .debug_line    0x00000000      0x2c9 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .debug_str     0x00000000      0x3b8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .debug_frame   0x00000000      0x214 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+ .text          0x00000000      0x504 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .debug_info    0x00000000      0x85c D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1ee D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .debug_line    0x00000000      0x437 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .debug_str     0x00000000      0x646 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x490 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+ .text          0x00000000      0x6d0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .debug_info    0x00000000      0x978 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x1d5 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .debug_line    0x00000000      0x499 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .debug_str     0x00000000      0x613 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .debug_frame   0x00000000      0x3a0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+ .text          0x00000000     0x1d94 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .debug_info    0x00000000     0x1e06 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .debug_abbrev  0x00000000      0x1ef D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .debug_line    0x00000000      0xc57 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .debug_str     0x00000000      0xdf3 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .debug_frame   0x00000000      0xe2c D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+ .text          0x00000000      0x8dc D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .debug_info    0x00000000      0xa79 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .debug_abbrev  0x00000000      0x1b7 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .debug_line    0x00000000      0x53c D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .debug_str     0x00000000      0x6a6 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .debug_frame   0x00000000      0x490 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+ .text          0x00000000      0x118 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .data          0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x246 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x148 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x207 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x273 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .comment       0x00000000       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .debug_frame   0x00000000      0x12c D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+ .text          0x00000000       0x14 ./startup/startup_stm32f10x_hd.o
+ .data          0x00000000        0x0 ./startup/startup_stm32f10x_hd.o
+ .bss           0x00000000        0x0 ./startup/startup_stm32f10x_hd.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00080000         xr
+RAM              0x20000000         0x00010000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+LOAD D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+LOAD D:\ARM\projects\GPIO\user\src\main.o
+LOAD D:\ARM\projects\GPIO\libraries\src\misc.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+LOAD D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+LOAD ./startup/startup_stm32f10x_hd.o
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+END GROUP
+                0x00000080                malloc_getpagesize_P = 0x80
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a
+END GROUP
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtend.o
+LOAD c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x20010000                _estack = 0x20010000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000200                _Min_Stack_Size = 0x200
+
+.isr_vector     0x08000000      0x1e4
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x1e4 ./startup/startup_stm32f10x_hd.o
+                0x08000000                g_pfnVectors
+                0x080001e4                . = ALIGN (0x4)
+
+.eh_frame       0x080001e4        0x0
+ .eh_frame      0x080001e4        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.text           0x080001e4     0x1190
+                0x080001e4                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080001e4       0x40 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x08000224      0x258 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+                0x08000224                SystemInit
+                0x0800028c                SystemCoreClockUpdate
+ .text          0x0800047c       0x54 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+                0x0800047c                NMI_Handler
+                0x08000488                HardFault_Handler
+                0x0800048e                MemManage_Handler
+                0x08000494                BusFault_Handler
+                0x0800049a                UsageFault_Handler
+                0x080004a0                SVC_Handler
+                0x080004ac                DebugMon_Handler
+                0x080004b8                PendSV_Handler
+                0x080004c4                SysTick_Handler
+ .text          0x080004d0       0x44 D:\ARM\projects\GPIO\user\src\main.o
+                0x080004d0                gpio_init
+                0x08000508                main
+ .text          0x08000514      0x5d8 D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+                0x08000514                GPIO_DeInit
+                0x080005f8                GPIO_AFIODeInit
+                0x08000610                GPIO_Init
+                0x08000788                GPIO_StructInit
+                0x080007ae                GPIO_ReadInputDataBit
+                0x080007e0                GPIO_ReadInputData
+                0x080007f8                GPIO_ReadOutputDataBit
+                0x0800082a                GPIO_ReadOutputData
+                0x08000842                GPIO_SetBits
+                0x0800085e                GPIO_ResetBits
+                0x0800087a                GPIO_WriteBit
+                0x080008a8                GPIO_Write
+                0x080008c4                GPIO_PinLockConfig
+                0x08000906                GPIO_EventOutputConfig
+                0x08000950                GPIO_EventOutputCmd
+                0x08000970                GPIO_PinRemapConfig
+                0x08000a50                GPIO_EXTILineConfig
+                0x08000ad0                GPIO_ETH_MediaInterfaceConfig
+ .text          0x08000aec      0x7dc D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+                0x08000aec                RCC_DeInit
+                0x08000b48                RCC_HSEConfig
+                0x08000ba4                RCC_WaitForHSEStartUp
+                0x08000bf4                RCC_AdjustHSICalibrationValue
+                0x08000c30                RCC_HSICmd
+                0x08000c50                RCC_PLLConfig
+                0x08000c8c                RCC_PLLCmd
+                0x08000cac                RCC_SYSCLKConfig
+                0x08000ce4                RCC_GetSYSCLKSource
+                0x08000d00                RCC_HCLKConfig
+                0x08000d38                RCC_PCLK1Config
+                0x08000d70                RCC_PCLK2Config
+                0x08000da8                RCC_ITConfig
+                0x08000df4                RCC_USBCLKConfig
+                0x08000e10                RCC_ADCCLKConfig
+                0x08000e48                RCC_LSEConfig
+                0x08000e88                RCC_LSICmd
+                0x08000ea8                RCC_RTCCLKConfig
+                0x08000ecc                RCC_RTCCLKCmd
+                0x08000eec                RCC_GetClocksFreq
+                0x08001058                RCC_AHBPeriphClockCmd
+                0x08001094                RCC_APB2PeriphClockCmd
+                0x080010d0                RCC_APB1PeriphClockCmd
+                0x0800110c                RCC_APB2PeriphResetCmd
+                0x08001148                RCC_APB1PeriphResetCmd
+                0x08001184                RCC_BackupResetCmd
+                0x080011a4                RCC_ClockSecuritySystemCmd
+                0x080011c4                RCC_MCOConfig
+                0x080011e4                RCC_GetFlagStatus
+                0x08001258                RCC_ClearFlag
+                0x08001274                RCC_GetITStatus
+                0x080012a8                RCC_ClearITPendingBit
+ *(.text*)
+ .text.Reset_Handler
+                0x080012c8       0x48 ./startup/startup_stm32f10x_hd.o
+                0x080012c8                Reset_Handler
+ .text.Default_Handler
+                0x08001310        0x2 ./startup/startup_stm32f10x_hd.o
+                0x08001310                EXTI2_IRQHandler
+                0x08001310                TIM8_TRG_COM_IRQHandler
+                0x08001310                TIM8_CC_IRQHandler
+                0x08001310                TIM1_CC_IRQHandler
+                0x08001310                TIM6_IRQHandler
+                0x08001310                PVD_IRQHandler
+                0x08001310                SDIO_IRQHandler
+                0x08001310                EXTI3_IRQHandler
+                0x08001310                EXTI0_IRQHandler
+                0x08001310                I2C2_EV_IRQHandler
+                0x08001310                ADC1_2_IRQHandler
+                0x08001310                SPI1_IRQHandler
+                0x08001310                TAMPER_IRQHandler
+                0x08001310                TIM8_UP_IRQHandler
+                0x08001310                DMA2_Channel2_IRQHandler
+                0x08001310                DMA1_Channel4_IRQHandler
+                0x08001310                USART3_IRQHandler
+                0x08001310                RTC_IRQHandler
+                0x08001310                DMA1_Channel7_IRQHandler
+                0x08001310                CAN1_RX1_IRQHandler
+                0x08001310                UART5_IRQHandler
+                0x08001310                ADC3_IRQHandler
+                0x08001310                TIM4_IRQHandler
+                0x08001310                DMA2_Channel1_IRQHandler
+                0x08001310                I2C1_EV_IRQHandler
+                0x08001310                DMA1_Channel6_IRQHandler
+                0x08001310                UART4_IRQHandler
+                0x08001310                TIM3_IRQHandler
+                0x08001310                RCC_IRQHandler
+                0x08001310                TIM1_TRG_COM_IRQHandler
+                0x08001310                DMA1_Channel1_IRQHandler
+                0x08001310                Default_Handler
+                0x08001310                EXTI15_10_IRQHandler
+                0x08001310                TIM7_IRQHandler
+                0x08001310                TIM5_IRQHandler
+                0x08001310                EXTI9_5_IRQHandler
+                0x08001310                SPI2_IRQHandler
+                0x08001310                DMA1_Channel5_IRQHandler
+                0x08001310                EXTI4_IRQHandler
+                0x08001310                USB_LP_CAN1_RX0_IRQHandler
+                0x08001310                USB_HP_CAN1_TX_IRQHandler
+                0x08001310                DMA1_Channel3_IRQHandler
+                0x08001310                FSMC_IRQHandler
+                0x08001310                TIM1_UP_IRQHandler
+                0x08001310                WWDG_IRQHandler
+                0x08001310                TIM2_IRQHandler
+                0x08001310                TIM1_BRK_IRQHandler
+                0x08001310                EXTI1_IRQHandler
+                0x08001310                RTCAlarm_IRQHandler
+                0x08001310                DMA2_Channel4_5_IRQHandler
+                0x08001310                USART2_IRQHandler
+                0x08001310                I2C2_ER_IRQHandler
+                0x08001310                DMA1_Channel2_IRQHandler
+                0x08001310                TIM8_BRK_IRQHandler
+                0x08001310                CAN1_SCE_IRQHandler
+                0x08001310                FLASH_IRQHandler
+                0x08001310                USART1_IRQHandler
+                0x08001310                SPI3_IRQHandler
+                0x08001310                I2C1_ER_IRQHandler
+                0x08001310                USBWakeUp_IRQHandler
+                0x08001310                DMA2_Channel3_IRQHandler
+ *fill*         0x08001312        0x2 
+ .text.__libc_init_array
+                0x08001314       0x48 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                0x08001314                __libc_init_array
+ *(.rodata)
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x0800135c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800135c        0x0 linker stubs
+ *(.init)
+ .init          0x0800135c        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x0800135c                _init
+ .init          0x08001360        0x8 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08001368        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                0x08001368                _fini
+ .fini          0x0800136c        0x8 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+                0x08001374                . = ALIGN (0x4)
+                0x08001374                _etext = .
+
+.vfp11_veneer   0x08001374        0x0
+ .vfp11_veneer  0x08001374        0x0 linker stubs
+
+.v4_bx          0x08001374        0x0
+ .v4_bx         0x08001374        0x0 linker stubs
+
+.iplt           0x08001374        0x0
+ .iplt          0x08001374        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rel.dyn        0x08001374        0x0
+ .rel.iplt      0x08001374        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001374        0x0
+                0x08001374                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001374                __exidx_end = .
+
+.ARM.attributes
+                0x08001374       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x08001374       0x1d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x08001391       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x080013be       0x2d D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+ .ARM.attributes
+                0x080013eb       0x2d D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .ARM.attributes
+                0x08001418       0x2d D:\ARM\projects\GPIO\user\src\main.o
+ .ARM.attributes
+                0x08001445       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .ARM.attributes
+                0x08001472       0x2d D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+ .ARM.attributes
+                0x0800149f       0x21 ./startup/startup_stm32f10x_hd.o
+ .ARM.attributes
+                0x080014c0       0x2d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x080014ed       0x1d c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+
+.preinit_array  0x08001374        0x0
+                0x08001374                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001374                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08001374        0x4
+                0x08001374                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08001374        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x08001378                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08001378        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x08001378        0x4 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x0800137c                _sidata = .
+
+.data           0x20000000       0x28 load address 0x0800137c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x14 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+                0x20000000                SystemCoreClock
+                0x20000004                AHBPrescTable
+ .data          0x20000014       0x14 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+ *(.data*)
+                0x20000028                . = ALIGN (0x4)
+                0x20000028                _edata = .
+
+.igot.plt       0x20000028        0x0 load address 0x080013a4
+ .igot.plt      0x20000028        0x0 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x20000028                . = ALIGN (0x4)
+
+.bss            0x20000028       0x1c load address 0x080013a4
+                0x20000028                _sbss = .
+                0x20000028                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000028       0x1c c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+                0x20000044                . = ALIGN (0x4)
+                0x20000044                _ebss = .
+                0x20000044                __bss_end__ = _ebss
+                [!provide]                PROVIDE (end = _ebss)
+                [!provide]                PROVIDE (_end = _ebss)
+
+._user_heap_stack
+                0x20000044      0x200 load address 0x080013c0
+                0x20000044                . = ALIGN (0x4)
+                0x20000044                . = (. + _Min_Heap_Size)
+                0x20000244                . = (. + _Min_Stack_Size)
+ *fill*         0x20000044      0x200 
+                0x20000244                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(./project/output/GPIO.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x188c
+ .debug_info    0x00000000      0x487 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+ .debug_info    0x00000487      0x144 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .debug_info    0x000005cb      0x242 D:\ARM\projects\GPIO\user\src\main.o
+ .debug_info    0x0000080d      0x74c D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .debug_info    0x00000f59      0x911 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+ .debug_info    0x0000186a       0x22 ./startup/startup_stm32f10x_hd.o
+
+.debug_abbrev   0x00000000      0x795
+ .debug_abbrev  0x00000000      0x1c1 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+ .debug_abbrev  0x000001c1       0x80 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .debug_abbrev  0x00000241      0x13a D:\ARM\projects\GPIO\user\src\main.o
+ .debug_abbrev  0x0000037b      0x20f D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .debug_abbrev  0x0000058a      0x1f9 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+ .debug_abbrev  0x00000783       0x12 ./startup/startup_stm32f10x_hd.o
+
+.debug_aranges  0x00000000       0xc8
+ .debug_aranges
+                0x00000000       0x20 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+ .debug_aranges
+                0x00000020       0x20 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .debug_aranges
+                0x00000040       0x20 D:\ARM\projects\GPIO\user\src\main.o
+ .debug_aranges
+                0x00000060       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .debug_aranges
+                0x00000080       0x20 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+ .debug_aranges
+                0x000000a0       0x28 ./startup/startup_stm32f10x_hd.o
+
+.debug_line     0x00000000     0x10cc
+ .debug_line    0x00000000      0x2d5 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+ .debug_line    0x000002d5      0x1af D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .debug_line    0x00000484      0x1d0 D:\ARM\projects\GPIO\user\src\main.o
+ .debug_line    0x00000654      0x497 D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .debug_line    0x00000aeb      0x564 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+ .debug_line    0x0000104f       0x7d ./startup/startup_stm32f10x_hd.o
+
+.debug_str      0x00000000      0xb2b
+ .debug_str     0x00000000      0x27b D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+                                0x2e2 (size before relaxing)
+ .debug_str     0x0000027b       0xbd D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+                                0x215 (size before relaxing)
+ .debug_str     0x00000338      0x165 D:\ARM\projects\GPIO\user\src\main.o
+                                0x2d1 (size before relaxing)
+ .debug_str     0x0000049d      0x285 D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+                                0x52f (size before relaxing)
+ .debug_str     0x00000722      0x3da D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+                                0x630 (size before relaxing)
+ .debug_str     0x00000afc       0x2f ./startup/startup_stm32f10x_hd.o
+                                 0x44 (size before relaxing)
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .comment       0x00000079       0x7a D:\ARM\projects\GPIO\user\src\main.o
+ .comment       0x00000079       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .comment       0x00000079       0x7a D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+
+.debug_frame    0x00000000      0x9e8
+ .debug_frame   0x00000000       0x98 D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+ .debug_frame   0x00000098      0x110 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+ .debug_frame   0x000001a8       0x50 D:\ARM\projects\GPIO\user\src\main.o
+ .debug_frame   0x000001f8      0x2d0 D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+ .debug_frame   0x000004c8      0x4f4 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+ .debug_frame   0x000009bc       0x2c c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 ./startup/startup_stm32f10x_hd.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_2_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+ADC3_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+ADC_AnalogWatchdogCmd                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_AnalogWatchdogSingleChannelConfig             D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_AnalogWatchdogThresholdsConfig                D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_AutoInjectedConvCmd                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_Cmd                                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_DMACmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_DiscModeChannelCountConfig                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_DiscModeCmd                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_ExternalTrigConvCmd                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvCmd                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_ExternalTrigInjectedConvConfig                D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetCalibrationStatus                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetConversionValue                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetDualModeConversionValue                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetInjectedConversionValue                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetResetCalibrationStatus                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetSoftwareStartConvStatus                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_GetSoftwareStartInjectedConvCmdStatus         D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_Init                                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_InjectedChannelConfig                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_InjectedDiscModeCmd                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_InjectedSequencerLengthConfig                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_RegularChannelConfig                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_ResetCalibration                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_SetInjectedOffset                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_SoftwareStartConvCmd                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_SoftwareStartInjectedConvCmd                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_StartCalibration                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_StructInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+ADC_TempSensorVrefintCmd                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+AHBPrescTable                                     D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+BKP_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_RTCOutputConfig                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_ReadBackupRegister                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_SetRTCCalibrationValue                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_TamperPinCmd                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_TamperPinLevelConfig                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BKP_WriteBackupRegister                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+BusFault_Handler                                  D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+CAN1_RX1_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+CAN1_SCE_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+CAN_CancelTransmit                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_DBGFreeze                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_FIFORelease                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_FilterInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_GetLSBTransmitErrorCounter                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_GetLastErrorCode                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_GetReceiveErrorCounter                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_Init                                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_MessagePending                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_OperatingModeRequest                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_Receive                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_SlaveStartBank                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_Sleep                                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_StructInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_TTComModeCmd                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_Transmit                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_TransmitStatus                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CAN_WakeUp                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+CEC_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_Cmd                                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_EndOfMessageCmd                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_Init                                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_OwnAddressConfig                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_ReceiveDataByte                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_SendDataByte                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_SetPrescaler                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CEC_StartOfMessage                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+CRC_CalcBlockCRC                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+CRC_CalcCRC                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+CRC_GetCRC                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+CRC_GetIDRegister                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+CRC_ResetDR                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+CRC_SetIDRegister                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_crc.o
+DAC_Cmd                                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_DMACmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_DualSoftwareTriggerCmd                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_GetDataOutputValue                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_Init                                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_SetChannel1Data                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_SetChannel2Data                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_SetDualChannelData                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_SoftwareTriggerCmd                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_StructInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DAC_WaveGenerationCmd                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+DBGMCU_Config                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+DBGMCU_GetDEVID                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+DBGMCU_GetREVID                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_dbgmcu.o
+DMA1_Channel1_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel2_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel3_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel4_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel5_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel6_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA1_Channel7_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA2_Channel1_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA2_Channel2_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA2_Channel3_IRQHandler                          ./startup/startup_stm32f10x_hd.o
+DMA2_Channel4_5_IRQHandler                        ./startup/startup_stm32f10x_hd.o
+DMA_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_Cmd                                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_GetCurrDataCounter                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_Init                                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_SetCurrDataCounter                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DMA_StructInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_dma.o
+DebugMon_Handler                                  D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+Default_Handler                                   ./startup/startup_stm32f10x_hd.o
+EXTI0_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI15_10_IRQHandler                              ./startup/startup_stm32f10x_hd.o
+EXTI1_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI2_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI3_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI4_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+EXTI9_5_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+EXTI_ClearFlag                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+EXTI_ClearITPendingBit                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+EXTI_DeInit                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+EXTI_GenerateSWInterrupt                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+EXTI_GetFlagStatus                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+EXTI_GetITStatus                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+EXTI_Init                                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+EXTI_StructInit                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_exti.o
+FLASH_ClearFlag                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_EnableWriteProtection                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_EraseAllBank1Pages                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_EraseAllPages                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_EraseOptionBytes                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_ErasePage                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_GetBank1Status                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_GetFlagStatus                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_GetPrefetchBufferStatus                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_GetReadOutProtectionStatus                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_GetStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_GetUserOptionByte                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_GetWriteProtectionOptionByte                D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_HalfCycleAccessCmd                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+FLASH_ITConfig                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_Lock                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_LockBank1                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_PrefetchBufferCmd                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_ProgramHalfWord                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_ProgramOptionByteData                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_ProgramWord                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_ReadOutProtection                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_SetLatency                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_Unlock                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_UnlockBank1                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_UserOptionByteConfig                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_WaitForLastBank1Operation                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FLASH_WaitForLastOperation                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_flash.o
+FSMC_ClearFlag                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_ClearITPendingBit                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_GetECC                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_GetFlagStatus                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_GetITStatus                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+FSMC_ITConfig                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDCmd                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDDeInit                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDECCCmd                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDInit                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NANDStructInit                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NORSRAMCmd                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NORSRAMDeInit                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NORSRAMInit                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_NORSRAMStructInit                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_PCCARDCmd                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_PCCARDDeInit                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_PCCARDInit                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+FSMC_PCCARDStructInit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_fsmc.o
+GPIO_AFIODeInit                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_DeInit                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_ETH_MediaInterfaceConfig                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_EXTILineConfig                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_EventOutputCmd                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_EventOutputConfig                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_Init                                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+                                                  D:\ARM\projects\GPIO\user\src\main.o
+GPIO_PinLockConfig                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_PinRemapConfig                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_ReadInputData                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_ReadInputDataBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_ReadOutputData                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_ReadOutputDataBit                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_ResetBits                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+                                                  D:\ARM\projects\GPIO\user\src\main.o
+GPIO_SetBits                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_StructInit                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_Write                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+GPIO_WriteBit                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+HardFault_Handler                                 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+I2C1_ER_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+I2C1_EV_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+I2C2_ER_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+I2C2_EV_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+I2C_ARPCmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_AcknowledgeConfig                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_CalculatePEC                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_CheckEvent                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_Cmd                                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_DMACmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_DMALastTransferCmd                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_DualAddressCmd                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_FastModeDutyCycleConfig                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_GeneralCallCmd                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_GenerateSTART                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_GenerateSTOP                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_GetLastEvent                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_GetPEC                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_Init                                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_NACKPositionConfig                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_OwnAddress2Config                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_PECPositionConfig                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_ReadRegister                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_ReceiveData                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_SMBusAlertConfig                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_Send7bitAddress                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_SendData                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_SoftwareResetCmd                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_StretchClockCmd                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_StructInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2C_TransmitPEC                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+I2S_Cmd                                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+I2S_Init                                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+I2S_StructInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+IWDG_Enable                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+IWDG_GetFlagStatus                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+IWDG_ReloadCounter                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+IWDG_SetPrescaler                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+IWDG_SetReload                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+IWDG_WriteAccessCmd                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_iwdg.o
+MemManage_Handler                                 D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+NMI_Handler                                       D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+NVIC_Init                                         D:\ARM\projects\GPIO\libraries\src\misc.o
+NVIC_PriorityGroupConfig                          D:\ARM\projects\GPIO\libraries\src\misc.o
+NVIC_SetVectorTable                               D:\ARM\projects\GPIO\libraries\src\misc.o
+NVIC_SystemLPConfig                               D:\ARM\projects\GPIO\libraries\src\misc.o
+PVD_IRQHandler                                    ./startup/startup_stm32f10x_hd.o
+PWR_BackupAccessCmd                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PWR_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PWR_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PWR_EnterSTANDBYMode                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PWR_EnterSTOPMode                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PWR_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PWR_PVDCmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PWR_PVDLevelConfig                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PWR_WakeUpPinCmd                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+PendSV_Handler                                    D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+RCC_ADCCLKConfig                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_AHBPeriphClockCmd                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_APB1PeriphClockCmd                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_APB1PeriphResetCmd                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_pwr.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_dac.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_cec.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_can.o
+RCC_APB2PeriphClockCmd                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+                                                  D:\ARM\projects\GPIO\user\src\main.o
+RCC_APB2PeriphResetCmd                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_gpio.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_adc.o
+RCC_AdjustHSICalibrationValue                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_BackupResetCmd                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_bkp.o
+RCC_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_ClockSecuritySystemCmd                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_GetClocksFreq                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+                                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_i2c.o
+RCC_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_GetSYSCLKSource                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_HCLKConfig                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_HSEConfig                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_HSICmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_IRQHandler                                    ./startup/startup_stm32f10x_hd.o
+RCC_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_LSEConfig                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_LSICmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_MCOConfig                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_PCLK1Config                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_PCLK2Config                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_PLLCmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_PLLConfig                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_RTCCLKCmd                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_RTCCLKConfig                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_SYSCLKConfig                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_USBCLKConfig                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RCC_WaitForHSEStartUp                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_rcc.o
+RTCAlarm_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+RTC_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_EnterConfigMode                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_ExitConfigMode                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_GetCounter                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_GetDivider                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_IRQHandler                                    ./startup/startup_stm32f10x_hd.o
+RTC_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_SetAlarm                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_SetCounter                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_SetPrescaler                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_WaitForLastTask                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+RTC_WaitForSynchro                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_rtc.o
+Reset_Handler                                     ./startup/startup_stm32f10x_hd.o
+SDIO_CEATAITCmd                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_ClearFlag                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_ClearITPendingBit                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_ClockCmd                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_CmdStructInit                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_CommandCompletionCmd                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_DMACmd                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_DataConfig                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_DataStructInit                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_DeInit                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_GetCommandResponse                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_GetDataCounter                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_GetFIFOCount                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_GetFlagStatus                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_GetITStatus                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_GetPowerState                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_GetResponse                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+SDIO_ITConfig                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_Init                                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_ReadData                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_SendCEATACmd                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_SendCommand                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_SendSDIOSuspendCmd                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_SetPowerState                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_SetSDIOOperation                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_SetSDIOReadWaitMode                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_StartSDIOReadWait                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_StopSDIOReadWait                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_StructInit                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SDIO_WriteData                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_sdio.o
+SPI1_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+SPI2_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+SPI3_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+SPI_BiDirectionalLineConfig                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_CalculateCRC                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_Cmd                                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_DataSizeConfig                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_GetCRC                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_GetCRCPolynomial                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_ClearFlag                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_ClearITPendingBit                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_DMACmd                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_DeInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_GetFlagStatus                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_GetITStatus                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_ITConfig                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_ReceiveData                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_I2S_SendData                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_Init                                          D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_NSSInternalSoftwareConfig                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_SSOutputCmd                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_StructInit                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SPI_TransmitCRC                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_spi.o
+SVC_Handler                                       D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+SysTick_CLKSourceConfig                           D:\ARM\projects\GPIO\libraries\src\misc.o
+SysTick_Handler                                   D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+SystemCoreClock                                   D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+SystemCoreClockUpdate                             D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+SystemInit                                        D:\ARM\projects\GPIO\cmsis\src\system_stm32f10x.o
+                                                  ./startup/startup_stm32f10x_hd.o
+TAMPER_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+TIM1_BRK_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+TIM1_CC_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+TIM1_TRG_COM_IRQHandler                           ./startup/startup_stm32f10x_hd.o
+TIM1_UP_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+TIM2_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM3_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM4_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM5_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM6_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM7_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+TIM8_BRK_IRQHandler                               ./startup/startup_stm32f10x_hd.o
+TIM8_CC_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+TIM8_TRG_COM_IRQHandler                           ./startup/startup_stm32f10x_hd.o
+TIM8_UP_IRQHandler                                ./startup/startup_stm32f10x_hd.o
+TIM_ARRPreloadConfig                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_BDTRConfig                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_BDTRStructInit                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_CCPreloadControl                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_CCxCmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_CCxNCmd                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ClearFlag                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ClearITPendingBit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ClearOC1Ref                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ClearOC2Ref                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ClearOC3Ref                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ClearOC4Ref                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_Cmd                                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_CounterModeConfig                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_CtrlPWMOutputs                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_DMACmd                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_DMAConfig                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_DeInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ETRClockMode1Config                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ETRClockMode2Config                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ETRConfig                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_EncoderInterfaceConfig                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ForcedOC1Config                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ForcedOC2Config                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ForcedOC3Config                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ForcedOC4Config                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GenerateEvent                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GetCapture1                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GetCapture2                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GetCapture3                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GetCapture4                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GetCounter                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GetFlagStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GetITStatus                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_GetPrescaler                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ICInit                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ICStructInit                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ITConfig                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_ITRxExternalClockConfig                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_InternalClockConfig                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC1FastConfig                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC1Init                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC1NPolarityConfig                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC1PolarityConfig                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC1PreloadConfig                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC2FastConfig                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC2Init                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC2NPolarityConfig                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC2PolarityConfig                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC2PreloadConfig                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC3FastConfig                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC3Init                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC3NPolarityConfig                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC3PolarityConfig                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC3PreloadConfig                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC4FastConfig                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC4Init                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC4PolarityConfig                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OC4PreloadConfig                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_OCStructInit                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_PWMIConfig                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_PrescalerConfig                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectCCDMA                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectCOM                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectHallSensor                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectInputTrigger                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectMasterSlaveMode                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectOCxM                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectOnePulseMode                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectOutputTrigger                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SelectSlaveMode                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetAutoreload                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetClockDivision                              D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetCompare1                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetCompare2                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetCompare3                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetCompare4                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetCounter                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetIC1Prescaler                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetIC2Prescaler                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetIC3Prescaler                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_SetIC4Prescaler                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_TIxExternalClockConfig                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_TimeBaseInit                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_TimeBaseStructInit                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_UpdateDisableConfig                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+TIM_UpdateRequestConfig                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_tim.o
+UART4_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+UART5_IRQHandler                                  ./startup/startup_stm32f10x_hd.o
+USART1_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+USART2_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+USART3_IRQHandler                                 ./startup/startup_stm32f10x_hd.o
+USART_ClearFlag                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_ClearITPendingBit                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_ClockInit                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_ClockStructInit                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_Cmd                                         D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_DMACmd                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_DeInit                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_GetFlagStatus                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_GetITStatus                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_HalfDuplexCmd                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_ITConfig                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_Init                                        D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_IrDACmd                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_IrDAConfig                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_LINBreakDetectLengthConfig                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_LINCmd                                      D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_OneBitMethodCmd                             D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_OverSampling8Cmd                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_ReceiveData                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_ReceiverWakeUpCmd                           D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_SendBreak                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_SendData                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_SetAddress                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_SetGuardTime                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_SetPrescaler                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_SmartCardCmd                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_SmartCardNACKCmd                            D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_StructInit                                  D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USART_WakeUpConfig                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_usart.o
+USBWakeUp_IRQHandler                              ./startup/startup_stm32f10x_hd.o
+USB_HP_CAN1_TX_IRQHandler                         ./startup/startup_stm32f10x_hd.o
+USB_LP_CAN1_RX0_IRQHandler                        ./startup/startup_stm32f10x_hd.o
+UsageFault_Handler                                D:\ARM\projects\GPIO\user\src\stm32f10x_it.o
+WWDG_ClearFlag                                    D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+WWDG_DeInit                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+WWDG_Enable                                       D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+WWDG_EnableIT                                     D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+WWDG_GetFlagStatus                                D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+WWDG_IRQHandler                                   ./startup/startup_stm32f10x_hd.o
+WWDG_SetCounter                                   D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+WWDG_SetPrescaler                                 D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+WWDG_SetWindowValue                               D:\ARM\projects\GPIO\libraries\src\stm32f10x_wwdg.o
+__bss_end__                                       c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__bss_start__                                     c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__call_exitprocs                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+__deregister_frame_info                           c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+__dso_handle                                      c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+__init_array_end                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+__init_array_start                                c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__libc_init_array                                 c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+                                                  ./startup/startup_stm32f10x_hd.o
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+__preinit_array_end                               c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+__preinit_array_start                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+__register_frame_info                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
+__sf_fake_stderr                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+__stack                                           c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_ebss                                             ./startup/startup_stm32f10x_hd.o
+_edata                                            ./startup/startup_stm32f10x_hd.o
+_estack                                           ./startup/startup_stm32f10x_hd.o
+_exit                                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libnosys.a(_exit.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+_fini                                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+_global_impure_ptr                                c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-impure.o)
+_init                                             c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+_sbss                                             ./startup/startup_stm32f10x_hd.o
+_sdata                                            ./startup/startup_stm32f10x_hd.o
+_sidata                                           ./startup/startup_stm32f10x_hd.o
+_start                                            c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+atexit                                            c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+exit                                              c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-exit.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+g_pfnVectors                                      ./startup/startup_stm32f10x_hd.o
+gpio_init                                         D:\ARM\projects\GPIO\user\src\main.o
+hardware_init_hook                                c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+main                                              D:\ARM\projects\GPIO\user\src\main.o
+                                                  ./startup/startup_stm32f10x_hd.o
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+memset                                            c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a(lib_a-memset.o)
+                                                  c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+software_init_hook                                c:/program files (x86)/gnu tools arm embedded/9 2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
